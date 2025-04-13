@@ -3,6 +3,7 @@
 👋 About Me
 
 Hi! There.....
+
 I'm just getting started on my coding journey and exploring the world of Business Analyst. I'm learning the basics of programming and working on small projects to improve my skills.
 
 🔭 Currently learning: Python, R Programming, MySQL, JavaScript, HTML, and CSS
